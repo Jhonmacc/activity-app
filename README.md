@@ -1,6 +1,6 @@
 # activity-app
 
-## Project Setup - rode para instalar a dependências
+## Project Setup - Rode para instalar a dependências
 ```
 npm install
 ```
