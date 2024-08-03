@@ -1,24 +1,24 @@
 # activity-app
 
-## Project setup
+## Project Setup - rode para instalar a dependências
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compila e recarrega para desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compila e minimiza para produção
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Lints e corrige arquivos
 ```
 npm run lint
 ```
 
-### Customize configuration
+### Personalizar configuração
 See [Configuration Reference](https://cli.vuejs.org/config/).
