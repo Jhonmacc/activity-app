@@ -1,5 +1,14 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <LandingPage/>
 </template>
+
+<script>
+import LandingPage from '../components/LandingPage.vue'
+
+export default {
+  name: 'AboutView',
+  components: {
+    LandingPage
+  }
+}
+</script>
