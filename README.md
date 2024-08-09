@@ -54,7 +54,7 @@ DB_DATABASE: Nome do banco de dados
 DB_USERNAME: Nome de usuário do banco de dados
 DB_PASSWORD: Senha do banco de dados
 ````
-### Rode as migrations assim que tiver certeza que configurou o arquivo .env com as informações do banco cor
+### Rode as migrations assim que tiver certeza que configurou o arquivo .env com as informações do banco
 ````
 php artisan migrate
 ````
